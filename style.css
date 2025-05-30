@@ -11,12 +11,14 @@ h1{
 
   }
 .together{
-    width: 50%;
     margin-left: 25%;
     margin-top:80px;
     color:white;
     text-align: center;
     font-family: "Libre Baskerville", serif;
+    width: 90%; 
+    max-width: 600px;
+    margin: 0 auto;
 
 
 
